@@ -56,9 +56,11 @@ Based on the machine learning models trained and evaluated:
 
 *   **Age Distribution**: A `Histplot` showing the distribution and density of Age .
 
-<img width="836" height="581" alt="Screenshot 2026-03-27 at 8 24 53 PM" src="https://github.com/user-attachments/assets/6f944ae4-c30b-4ec9-a0bb-cb3dcc570ef1" />
+<img width="691" height="481" alt="Screenshot 2026-03-27 at 9 05 13 PM" src="https://github.com/user-attachments/assets/9dd0924e-4f02-445c-82ed-2552ced6a928" />
+
 
 *   **Age Distribution by Treatment**: A `FacetGrid` showing the age distribution separated by whether individuals sought `treatment` or not.
 
-<img width="815" height="420" alt="Screenshot 2026-03-27 at 8 25 06 PM" src="https://github.com/user-attachments/assets/51485f6c-3254-4b7b-a50e-b49d4e2a9216" />
+<img width="691" height="352" alt="Screenshot 2026-03-27 at 9 08 03 PM" src="https://github.com/user-attachments/assets/404e03e5-0e84-4698-90d1-71ed5c49492e" />
+
 
