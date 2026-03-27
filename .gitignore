@@ -1,0 +1,19 @@
+# Mac system files
+.DS_Store
+
+# Python "Trash"
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments (VERY IMPORTANT)
+# We share the environment.yml, NOT the actual env folder
+.conda/
+env/
+venv/
+
+# Large Data (Optional but recommended)
+# This prevents accidentally pushing huge CSVs that break GitHub
+*.csv
+*.zip
+*.parquet
