@@ -77,7 +77,7 @@ The dataset required several preprocessing steps before analysis:
 
 ### 1. Age Distribution of Respondents
 
-<img width="691" height="352" alt="570323679-404e03e5-0e84-4698-90d1-71ed5c49492e" src="https://github.com/user-attachments/assets/14f5f6ea-6d64-4df0-b544-a802f6a2c31b" />
+<img width="997" height="699" alt="image" src="https://github.com/user-attachments/assets/3a5cb86f-6e72-4dab-8a93-9af794c079f3" />
 
 
 **Insight:**  
